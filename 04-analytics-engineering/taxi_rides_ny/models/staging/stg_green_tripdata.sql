@@ -45,4 +45,7 @@ select
 
 from tripdata
 where rn = 1
+<<<<<<< HEAD
 
+=======
+>>>>>>> eac4e22afc0f9f69f9efdb63b0c8d3853160fa94
